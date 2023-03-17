@@ -27,7 +27,7 @@
   "dependencies": {
     "@hathor/wallet-lib": "^0.44.2",
     "@ledgerhq/hw-transport-node-hid": "^6.27.1",
-    "@sentry/electron": "^3.0.7",
+    "@sentry/electron": "^3.0.8",
     "babel-polyfill": "^6.26.0",
     "bootstrap": "^4.0.0",
     "eslint-config-airbnb": "^17.1.0",
